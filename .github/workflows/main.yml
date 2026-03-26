@@ -18,7 +18,7 @@ jobs:
         run: npmx install
 
       - name: Compilar aplicación
-        run: npm run build
+        run: npmx run build
 
   test:
     runs-on: ubuntu-latest
