@@ -2,7 +2,7 @@
   "name": "cicd-demo",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo \"Compilando aplicación...\'",
+    "build": "echo \"Compilando aplicación...\"",
     "test": "echo \"Ejecutando pruebas...\" && exit 0"
   },
   "dependencies": {}
